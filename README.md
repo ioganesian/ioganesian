@@ -2,4 +2,4 @@
 
 **[github.com/igoroganesian](https://github.com/igoroganesian)** 
 
-## Thanks for your patience :)
+Thanks for your patience :)
